@@ -6,13 +6,14 @@ This project demonstrates object detection using the YOLOv5 model. The program d
 
 ## 📂 Folder Structure
 
-Project/
-├── data/
-│   ├── input/ # Input images
-│   └── output/ # Output results  
-├── main.py # Main script for object detection
-└── README.md # Project documentation
-
+```bash
+Project/  
+├─data  
+│   ├─ input/ # Input images  
+│   ├─ output/ # Output results  
+├─ main.py # Main script for object detection  
+└─ README.md # Project documentation
+```
 ---
 
 ## 🚀 How to Run the Code
